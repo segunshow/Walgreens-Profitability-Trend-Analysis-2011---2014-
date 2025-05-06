@@ -1,17 +1,17 @@
 This project is a simulated business intelligence analysis built using Excel Dashboarding techniques to evaluate Walgreens’ profitability performance across key segments, products, and regions between 2011 and 2014. The dashboard presents actionable insights that could guide strategic decisions—based on fictional but realistic data for learning purposes.
 
 
-Objective
+### Objective
 To uncover trends in profitability across years, states, customers, products, cities, and shipping modes, enabling data-driven decisions to increase revenue and operational efficiency.
 
-Tools Used
+### Tools Used
 Microsoft Excel (Pivot Tables, Charts, Slicers)
 
 Data Visualization & Dashboarding
 
 Business Analytics Concepts
 
-Key Analysis Observations
+### Key Analysis Observations
 🔹 Consumer Segment
 Profitability showed a steady increase from 2011 to 2014, supporting sustained business growth.
 
@@ -42,8 +42,8 @@ Standard-Class and First-Class shipping remained most effective.
 
 Same-Day shipping had the lowest return in this segment as well.
 
-Recommendations:
-For the Consumer Segment
+### Recommendations:
+#### For the Consumer Segment
 Expand strong-performing cities and regions (e.g., California, New York).
 
 Improve profitability in Central region via promotions and outreach.
@@ -56,7 +56,7 @@ Enhance logistics for Standard & First-Class shipping, and re-evaluate Same-Day 
 
 Track yearly profit changes to adapt to market shifts and customer behavior.
 
-For the Corporate Segment
+#### For the Corporate Segment
 Strengthen focus on high-performing states and cities with tailored strategies.
 
 Capitalize on profitable categories (Copiers, Accessories, Phones) via targeted promotions.
